@@ -1,0 +1,1412 @@
+[
+  {
+    "id": 1,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 2,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 3,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 4,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 5,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 6,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 7,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 8,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 9,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 10,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 11,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 12,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 13,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 14,
+    "StressLevel": "Good",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 15,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 16,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 17,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 18,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 19,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 20,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 21,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 22,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 23,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 24,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 25,
+    "StressLevel": "Awful",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 26,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 27,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 28,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 29,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 30,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 31,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 32,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 33,
+    "StressLevel": "Good",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 34,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 35,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 36,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 37,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 38,
+    "StressLevel": "Awful",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 39,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 40,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 41,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 42,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 43,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 44,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 45,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 46,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 47,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 48,
+    "StressLevel": "Awful",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 49,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 50,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 51,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 52,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 53,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 54,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 55,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 56,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 57,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 58,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 59,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 60,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 61,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 62,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 63,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 64,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 65,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 66,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 67,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 68,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 69,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 70,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 71,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 72,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 73,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 74,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 75,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 76,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 77,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 78,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 79,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Fabulous",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 80,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 81,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 82,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 83,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 84,
+    "StressLevel": "Good",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 85,
+    "StressLevel": "Awful",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 86,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 87,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 88,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 89,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 90,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 91,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 92,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 93,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 94,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 95,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 96,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 97,
+    "StressLevel": "Good",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 98,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 99,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 100,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 101,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 102,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 103,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 104,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 105,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 106,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 107,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 108,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 109,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 110,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 111,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 112,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 113,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 114,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 115,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 116,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 117,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 118,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 119,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 120,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 121,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 122,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 123,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 124,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 125,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 126,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 127,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 128,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 129,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 130,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 131,
+    "StressLevel": "Good",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 132,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 133,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 134,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 135,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 136,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 137,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 138,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 139,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 140,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 141,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 142,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 143,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 144,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 145,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 146,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 147,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "Fabulous",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 148,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 149,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 150,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 151,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 152,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 153,
+    "StressLevel": "Awful",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 154,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 155,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 156,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 157,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 158,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 159,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 160,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 161,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 162,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 163,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 164,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 165,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 166,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 167,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 168,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 169,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 170,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 171,
+    "StressLevel": "Good",
+    "FinancialStatus": "Fabulous",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 172,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 173,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 174,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 175,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 176,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 177,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 178,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 179,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 180,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 181,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 182,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 183,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 184,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 185,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 186,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 187,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 188,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 189,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 190,
+    "StressLevel": "Good",
+    "FinancialStatus": "Awful",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 191,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 192,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 193,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 194,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 195,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 196,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 197,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 198,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 199,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 200,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 201,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 202,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 203,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 204,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 205,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 206,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 207,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 208,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 209,
+    "StressLevel": "Good",
+    "FinancialStatus": "Fabulous",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 210,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 211,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 212,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 213,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 214,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 215,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 216,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 217,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 218,
+    "StressLevel": "Awful",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 219,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 220,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 221,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 222,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 223,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 224,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 225,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 226,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 227,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 228,
+    "StressLevel": "Awful",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 229,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 230,
+    "StressLevel": "Good",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 231,
+    "StressLevel": "Bad",
+    "FinancialStatus": "Bad",
+    "StudyPreference": "Morning"
+  },
+  {
+    "id": 232,
+    "StressLevel": "Good",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 233,
+    "StressLevel": "Bad",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  },
+  {
+    "id": 234,
+    "StressLevel": "Awful",
+    "FinancialStatus": "good",
+    "StudyPreference": "Anytime"
+  },
+  {
+    "id": 235,
+    "StressLevel": "fabulous",
+    "FinancialStatus": "good",
+    "StudyPreference": "Night"
+  }
+]
