@@ -11,5 +11,5 @@ This is coding assignment of leapfrog technology using python
 1.clone the repository
 
 2.execute the command
- - `pip install requirements.txt`
+ - `pip install -r requirements.txt`
 
